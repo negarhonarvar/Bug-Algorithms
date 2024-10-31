@@ -2,9 +2,13 @@
 <p align = "center">
  <img src="https://github.com/user-attachments/assets/fdbef732-7f0d-437a-9ad8-a44e5469da70" width = "400" >
 </p>
+
+
 We shall implement Bug1 , Bug2 and wall following algorithm for guiding an GCTronic' e-puck rebot through a maze to a target position.
+
+
 <p align = "center">
-   <img src="https://github.com/user-attachments/assets/ed615e48-3640-433d-b337-4eb0f6675363" width = "400" >
+   <img src="https://github.com/user-attachments/assets/ed615e48-3640-433d-b337-4eb0f6675363" width = "200" >
 </p>
 ## Bug 1 and Map Gathering
 Bug 1 is implemented mostly similar to bug2 but with a few number of differences  :
