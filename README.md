@@ -1,8 +1,9 @@
 # Bug Algorithms in a Maze
-We shall implement Bug1 , Bug2 and wall following algorithm for guiding an epoch rebot through a maze to a target position.
-
 
 <img src="https://github.com/user-attachments/assets/fdbef732-7f0d-437a-9ad8-a44e5469da70" width = "400" >
+
+We shall implement Bug1 , Bug2 and wall following algorithm for guiding an GCTronic' e-puck rebot through a maze to a target position.
+
 
 <img src="https://github.com/user-attachments/assets/ed615e48-3640-433d-b337-4eb0f6675363" width = "400" >
 
