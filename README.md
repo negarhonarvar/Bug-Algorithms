@@ -3,7 +3,18 @@
  <img src="https://github.com/user-attachments/assets/fdbef732-7f0d-437a-9ad8-a44e5469da70" width = "400" >
 </p>
 
+## Prerequisites 📋
+To successfully run the codes in this repository, you need to install:
 
+    Webots R2023b
+    controler library of webots
+    inspect library
+    
+And to load the environment, you need to open .wbt file in webots :
+
+    maze_runner.wbt
+
+## Implementation
 We shall implement Bug1 , Bug2 and wall following algorithm for guiding an GCTronic' e-puck rebot through a maze to a target position.
 
 
